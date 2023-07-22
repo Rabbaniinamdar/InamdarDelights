@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/InamdarDelights/static/css/main.9d1ef8e3.css",
-    "main.js": "/InamdarDelights/static/js/main.6416c687.js",
+    "main.js": "/InamdarDelights/static/js/main.b84bfc94.js",
     "static/media/bruschetta1.jpg": "/InamdarDelights/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
     "static/media/salad.jpg": "/InamdarDelights/static/media/salad.00b1567f5a694e5c3945.jpg",
     "static/media/creme.jpg": "/InamdarDelights/static/media/creme.3a9eaace5be031d2d7a0.jpg",
@@ -9,10 +9,10 @@
     "static/media/inamdar.png": "/InamdarDelights/static/media/inamdar.0782d16a066eaf7b4eb9.png",
     "index.html": "/InamdarDelights/index.html",
     "main.9d1ef8e3.css.map": "/InamdarDelights/static/css/main.9d1ef8e3.css.map",
-    "main.6416c687.js.map": "/InamdarDelights/static/js/main.6416c687.js.map"
+    "main.b84bfc94.js.map": "/InamdarDelights/static/js/main.b84bfc94.js.map"
   },
   "entrypoints": [
     "static/css/main.9d1ef8e3.css",
-    "static/js/main.6416c687.js"
+    "static/js/main.b84bfc94.js"
   ]
 }
